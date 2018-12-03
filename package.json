@@ -1,6 +1,6 @@
 {
   "name": "@bpanel/price-widget",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "UI for price plugin",
   "main": "dist/index.js",
   "scripts": {
@@ -18,7 +18,7 @@
   "author": "Matthew Zipkin",
   "license": "MIT",
   "dependencies": {
-    "@bpanel/price": "0.0.1",
+    "@bpanel/price": "0.0.2",
     "babel-cli": "^6.26.0",
     "babel-plugin-transform-runtime": "^6.23.0"
   },
