@@ -17,6 +17,7 @@
   ],
   "author": "Matthew Zipkin",
   "license": "MIT",
+  "repository": "git://github.com/bpanel-org/price-widget.git",
   "dependencies": {
     "@bpanel/price": "0.0.3",
     "babel-cli": "^6.26.0",
