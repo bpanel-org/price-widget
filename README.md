@@ -20,3 +20,10 @@ Included with other widgets in [genesis-theme](https://github.com/bpanel-org/gen
 Without any theme installed:
 ![screenshot](https://raw.githubusercontent.com/bpanel-org/price-widget/master/docs/noTheme.png "footer no theme")
 
+**Important:** This plug in currently requires the bPanel backend plugin `@bpanel/curl` to be installed separately by the user:
+
+Using [bpanel-cli](https://github.com/bpanel-org/bpanel-cli)
+
+```bash
+$ bpanel-cli i @bpanel/curl
+```
