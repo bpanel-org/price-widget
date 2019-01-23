@@ -27,3 +27,9 @@ Using [bpanel-cli](https://github.com/bpanel-org/bpanel-cli)
 ```bash
 $ bpanel-cli i @bpanel/curl
 ```
+
+**Optional:**
+
+The appearace of this widget can be modified by installing the additional plugin [price-settings](https://github.com/bpanel-org/price-settings).
+
+![screenshot](https://raw.githubusercontent.com/bpanel-org/price-widget/master/docs/price-settings.gif "with price-settings")
